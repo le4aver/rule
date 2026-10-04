@@ -2,12 +2,12 @@
   "version": 3,
   "rules": [
     {
-      "domain_suffix": [
-        ".djhdhs.us",
+      "domain_keyword": [
+        "djhdhs.us",
         "hjd2048.com",
         "sehuatang.org",
-        ".oplist.org",
-        ".viplee.cc"
+        "oplist.org",
+        "viplee.cc"
       ]
     }
   ]
